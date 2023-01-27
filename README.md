@@ -1,8 +1,25 @@
 # markdown-test
 마크다운 설명
 
+### 11. 표
+|번호|아이디|이름|레벨|이메일|등록일|
+|:-----|:-----|:------|-----:|:----------------|:---------------:|
+|1     |james1 |이상무1 |1     |jamesol@param.com|2023-01-27|
+|2     |james2 |이상무2 |1     |jamesol@param.com|2023-01-27|
+|3     |james3 |이상무3 |1     |jamesol@param.com|2023-01-27|
+|4     |james4 |이상무4 |1     |jamesol@param.com|2023-01-27|
+|5     |james5 |이상무5 |1     |jamesol@param.com|2023-01-27|
+
+### 10. 인라인
+문단 중간에 `CODE`를 넣을 수 있습니다.
+
+### 9. 강조
+Spring을 만끽하세요.  
+**Spring**을 만끽하세요.  
+*Spring*을 만끽하세요.
+
 ### 8. 이미지 넣기
-![]()
+![테스트지이미지](https://github.com/hamin081234/markdown-test/blob/main/5GDFSGAPEBAT5PC6E27XXZPXF4.jpg "롯데월드 사진")
 
 ### 7. 하이퍼링크
 [e클래스](https://cafe.daum.net/pcwk "e클래스의 cafe입니다.")
